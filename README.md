@@ -1,21 +1,45 @@
-# Sneha Nathani - Lead Developer
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Nathani-blue)
+# Sneha Nathani
 
-## About Me
-With over 16 years of experience in backend development, I specialize in document automation, microservices architecture, cloud technologies, and financial data systems. I thrive on solving complex challenges and delivering measurable business outcomes through innovative technology solutions.
+Backend Architect | Distributed Systems | AI-Driven Platforms
 
-## Technical Skills:
-- Backend: Java, Node.js (Express.js)
-- Cloud & DevOps: AWS, GCP, Docker, Kubernetes, Jenkins
-- Data Engineering: PostgreSQL, MongoDB, Apache Kafka
-- Analytics: QuickSight, Grafana, Metabase
-- Security: OAuth2, JWT, API Gateway Security
+With 18+ years of experience in backend engineering, I build scalable distributed systems, cloud-native platforms, intelligent data pipelines, and AI-powered automation solutions across fintech, logistics, enterprise, and document intelligence domains.
 
-## Professional Experience:
-- Lead Developer at MeasureOne, Inc. (July 2024 – Present)
-- Lead Developer at SJULTRA, INC. (May 2023 – June 2024)
-- Lead Developer at Ekshot Advertcom Pvt Ltd (June 2021 – April 2023)
+## Tech Stack
 
-## Contact:
-- LinkedIn: [Sneha Nathani LinkedIn](https://www.linkedin.com/in/snehanathani)
-- Email: snehanathani@gmail.com
+* **Backend:** Node.js, Java, Spring Boot, Express.js
+* **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins
+* **Data Engineering:** PostgreSQL, MongoDB, Kafka, ETL, CDC Pipelines
+* **Architecture:** Microservices, Event-Driven Systems, Distributed Systems
+* **Observability:** Grafana, Datadog, QuickSight, Metabase
+* **Security:** OAuth2, JWT, Vault, API Security
+* **AI Systems:** RAG Pipelines, LLM Integrations, AI Workflow Automation
+
+## Current Focus
+
+* AI-integrated backend platforms
+* RAG and intelligent document processing
+* Real-time data systems
+* Cloud-native distributed architectures
+* Observability and platform reliability
+* Automation-first engineering
+
+## Experience
+
+* Lead Developer — MeasureOne, Inc.
+* Lead Developer — SJULTRA, INC.
+* Lead Developer — Ekshot Advertcom Pvt Ltd
+* Senior Developer — TEKsystems / MasterCard
+
+## Certifications
+
+* AWS Solutions Architect (Associate)
+* Scrum Master
+* HackerRank Certified (Java)
+* MongoDB Certified Developer
+
+## Connect
+
+* LinkedIn: [www.linkedin.com/in/snehanathani](http://www.linkedin.com/in/snehanathani)
+* GitHub: github.com/snehanathani
+* Email: [snehanathani@gmail.com](mailto:snehanathani@gmail.com)
+
